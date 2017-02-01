@@ -1,0 +1,1 @@
+/home/vagrant/proyectos/apptitud/ayamonte.app/app/views/news/show.blade.php
